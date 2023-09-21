@@ -6,7 +6,7 @@ app.get('/', function (req, res){
 });
 
 app.listen(3000, function(){
-   console.log('Server app running on ort 3000!');
+   console.log('Server app running on port 3000!');
 });
 /*
 const http=require("http");
